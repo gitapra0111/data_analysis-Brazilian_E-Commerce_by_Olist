@@ -23,5 +23,12 @@ To maintain a clean repository and adhere to data management best practices, the
 * **Key Insight:** Identified a massive opportunity with over 32,000 **"Potential Loyalist"** customers, while confirming a healthy baseline retention rate (only ~1,500 churned customers).
 * **View Full Details:** Navigate to the [`2.customer-segmentation-rfm`](./2.customer-segmentation-rfm) folder to see the RFM scoring logic, visualizations, and business recommendations.
 
+
+### 3. [Logistics & Delivery Performance Analysis](./3-delivery-delay-prediction)
+* **Objective:** Evaluate supply chain efficiency by analyzing delivery times, identifying delay rates, and calculating delay severity.
+* **Tools:** Python (Pandas, Matplotlib, Seaborn).
+* **Key Insight:** While the network has a **93.2% on-time delivery rate**, the delayed packages take an average of 10.6 extra days to arrive, with extreme outliers suggesting tracking system anomalies.
+* **View Full Details:** Navigate to the [`3-delivery-delay-prediction`](./3-delivery-delay-prediction) folder for the visualization and statistical breakdown.
+
 ---
 *If you have any questions or feedback regarding these analyses, feel free to reach out via my LinkedIn or email.*
